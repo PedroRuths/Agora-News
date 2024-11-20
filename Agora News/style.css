@@ -4,7 +4,7 @@
 }
 
 nav p {
-    font-size: 15px;
+    font-size: 8px;
 }
 
 .header-menu {
@@ -13,13 +13,11 @@ nav p {
     justify-content: center; 
     align-items: center; 
     gap: 20px; 
-    margin-top: -3px;
+    margin-top: -4px;
 }
 
 .header-menu a:hover {
     color: white;
-
-
 }
 
 .header {
@@ -40,18 +38,16 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 28px;
     text-align: center;
     margin-top: 40px;
-    margin-bottom: 20px;
-    
-
+    margin-bottom: 15px;
 }
 
 .titulo {
    background-color: #d91e36;
    width: 1094px;
-   margin-left: 23%;
+   margin-left: 10%;
    color: white;
 
 }
@@ -63,15 +59,15 @@ h1 {
 }
 
 .noticia-principal img {
-    border-radius: 10px;
+    border-radius: 20px;
     padding-bottom: 10px;
-    width: 450px;
+    width: 370px;
 }
 
 .noticia-principal {
     display: flex;
     background-color: #f1f1f1;
-    height: 700px;
+    height: 600px;
     width: 500px;
     border-radius: 20px;
     align-items: center;
@@ -95,6 +91,7 @@ h2 {
     padding-left: 10px;
     padding-right: 10px;
     color: #d91e36;
+    font-size: 22px;
 }
 
 h2:hover {
@@ -102,7 +99,7 @@ h2:hover {
 }
 
 p {
-    font-size: 19px;
+    font-size: 18px;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -116,7 +113,7 @@ p {
 .noticia-esporte {
     margin-bottom: 40px;
     display: flex;
-    height: 250px;
+    height: 200px;
     width: 1050px;
     background-color: #f1f1f1;
     border-radius: 20px;
@@ -128,7 +125,7 @@ p {
 
 .noticia-esporte img {
     width: 400px;
-    height: 250px;
+    height: 200px;
     border-radius: 20px;
 }
 
@@ -138,9 +135,6 @@ p {
     padding: 20px;
 }
 
-.serie-b {
-    margin-left: 150px;
-}
 
 .financeiro {
     display: flex;
@@ -151,7 +145,7 @@ p {
  .financeiro-noticias {
     margin-bottom: 40px;
     display: flex;
-    height: 250px;
+    height: 200px;
     width: 1050px;
     background-color: #f1f1f1;
     border-radius: 20px;
@@ -162,7 +156,7 @@ p {
 
 .financeiro-noticias img {
     width: 400px;
-    height: 250px;
+    height: 200px;
     border-radius: 20px;
 }
 
@@ -175,7 +169,7 @@ p {
  .ciencia-noticias {
     margin-bottom: 40px;
     display: flex;
-    height: 250px;
+    height: 200px;
     width: 1050px;
     background-color: #f1f1f1;
     border-radius: 20px;
@@ -186,7 +180,7 @@ p {
 
 .ciencia-noticias img {
     width: 400px;
-    height: 250px;
+    height: 200px;
     border-radius: 20px;
 }
 
